@@ -1,0 +1,18 @@
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb

@@ -1,0 +1,44 @@
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.pdb

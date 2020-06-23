@@ -1,0 +1,32 @@
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\MaterialDosAssinantes.exe.config
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\MaterialDosAssinantes.exe
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\MaterialDosAssinantes.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\BLL.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\DAL.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\Ferramentas.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\Modelo.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\BLL.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\DAL.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\Ferramentas.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\Modelo.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\obj\Debug\MaterialDosAssinantes.csprojResolveAssemblyReference.cache
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\obj\Debug\MaterialDosAssinantes.Properties.Resources.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\obj\Debug\MaterialDosAssinantes.csproj.GenerateResource.Cache
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\obj\Debug\MaterialDosAssinantes.exe
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\MaterialDosAssinantes\obj\Debug\MaterialDosAssinantes.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\MaterialDosAssinantes.exe.config
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\MaterialDosAssinantes.exe
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\MaterialDosAssinantes.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\BLL.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\DAL.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\Ferramentas.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\Modelo.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\BLL.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\DAL.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\Ferramentas.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\bin\Debug\Modelo.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\obj\Debug\MaterialDosAssinantes.csprojResolveAssemblyReference.cache
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\obj\Debug\MaterialDosAssinantes.Properties.Resources.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\obj\Debug\MaterialDosAssinantes.csproj.GenerateResource.Cache
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\obj\Debug\MaterialDosAssinantes.exe
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\MaterialDosAssinantes\obj\Debug\MaterialDosAssinantes.pdb

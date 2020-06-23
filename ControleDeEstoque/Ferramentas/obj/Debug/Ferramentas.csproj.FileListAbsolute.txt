@@ -1,0 +1,20 @@
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.pdb

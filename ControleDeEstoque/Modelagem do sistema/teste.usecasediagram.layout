@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="teste">
+  <useCaseModelRootMoniker Id="02c2fb4b-0ffd-4caf-8650-edaf6b7ab0b8" />
+  <nestedChildShapes>
+    <SubsystemShape Id="b0a5f96a-0233-4a68-9b32-d823a38cdc5c" absoluteBounds="3.5, 1.375, 3, 2.5" customColor="White">
+      <subsystemMoniker Id="db36b494-0953-4bd3-b5a4-06bdeda43cc5" LastKnownName="Subsystem1" />
+      <nestedChildShapes>
+        <commentShape Id="0f98caf7-f6d1-43f5-9fd3-a6dc4f1890a0" absoluteBounds="5, 2.875, 1.25, 0.375" customColor="251, 247, 200">
+          <commentMoniker Id="abb79a82-b1f5-4be5-be84-c6e132cf1018" />
+          <relativeChildShapes />
+        </commentShape>
+        <useCaseShape Id="b4912fb1-852a-4875-9a5a-a04fa50ca069" absoluteBounds="4.125, 2, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+          <useCaseMoniker Id="89f6dbaa-edc2-47ea-8cdc-58c1ee33c9b1" LastKnownName="UseCase2" />
+          <relativeChildShapes />
+        </useCaseShape>
+        <commentConnector edgePoints="[(5.0625 : 2.875); (5.0625 : 2.37103072956898)]" fixedFrom="Algorithm" fixedTo="Algorithm" TargetRelationshipDomainClassId="217d6bd0-42ed-4e7f-ad2b-af3ef5142428" customColor="Black">
+          <relativeChildShapes />
+          <nodes>
+            <commentShapeMoniker Id="0f98caf7-f6d1-43f5-9fd3-a6dc4f1890a0" />
+            <useCaseShapeMoniker Id="b4912fb1-852a-4875-9a5a-a04fa50ca069" />
+          </nodes>
+        </commentConnector>
+      </nestedChildShapes>
+    </SubsystemShape>
+  </nestedChildShapes>
+</useCaseDiagram>

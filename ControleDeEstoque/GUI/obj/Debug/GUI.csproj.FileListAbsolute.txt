@@ -1,0 +1,119 @@
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\Ferramentas.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\Ferramentas.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmBackupBancoDeDados.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroCategoria.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroCliente.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroFornecedor.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroProduto.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroSubCategoria.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroTipoPagamento.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastrounidadeDeMedida.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConfiguracaoBancoDados.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCategoria.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCliente.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCompra.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaFornecedor.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaProduto.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaSubCategoria.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaTipoPagamento.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaUnidadeDeMedida.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmModeloDeFormularioDeCadastro.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmMovimentacaoCompra.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmPagamentoCompra.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmPrincipal.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmSobre.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\dfili\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\bin\Debug\Ferramentas.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\bin\Debug\Ferramentas.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmBackupBancoDeDados.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroCategoria.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroCliente.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroFornecedor.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroProduto.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroSubCategoria.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroTipoPagamento.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastrounidadeDeMedida.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConfiguracaoBancoDados.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCategoria.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCliente.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCompra.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaFornecedor.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaProduto.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaSubCategoria.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaTipoPagamento.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaUnidadeDeMedida.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaVenda.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmModeloDeFormularioDeCadastro.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmMovimentacaoCompra.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmMovimentacaoVenda.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmPagamentoCompra.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmPrincipal.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmSobre.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\dfili\Documents\Visual Studio 2015\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\bin\Debug\Ferramentas.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\bin\Debug\Ferramentas.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmBackupBancoDeDados.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroCategoria.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroCliente.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroFornecedor.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroProduto.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroSubCategoria.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroTipoPagamento.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastrounidadeDeMedida.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConfiguracaoBancoDados.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCategoria.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCliente.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCompra.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaFornecedor.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaProduto.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaSubCategoria.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaTipoPagamento.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaUnidadeDeMedida.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaVenda.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmModeloDeFormularioDeCadastro.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmMovimentacaoCompra.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmMovimentacaoVenda.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmPagamentoCompra.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmPrincipal.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmSobre.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+D:\Danilo Filitto\Documents\Visual Studio 2017\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmRecebimentoVenda.resources

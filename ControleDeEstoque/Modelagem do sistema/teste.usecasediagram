@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="02c2fb4b-0ffd-4caf-8650-edaf6b7ab0b8" name="teste" linkedPackageId="6404c364-4407-4f7b-a5c6-4069a83f6504" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <profileInstances>
+    <packageHasProfileInstances Id="7a89a5ee-f800-4227-b08e-2e5786aa546b">
+      <profileInstance Id="f6806104-1c3a-49b8-a75a-bd87a3c667a0" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="ce9bd93e-64af-4048-bc62-53d4613491f3">
+      <profileInstance Id="212cb83a-80bd-4537-a94c-b0ad18ff08d6" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <useCase Id="89f6dbaa-edc2-47ea-8cdc-58c1ee33c9b1" name="UseCase2" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="9d4d4896-292c-489a-9043-f31f0b23d1a2" />
+        <subjects>
+          <subsystemMoniker Id="db36b494-0953-4bd3-b5a4-06bdeda43cc5" LastKnownName="Subsystem1" />
+        </subjects>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <subsystem Id="db36b494-0953-4bd3-b5a4-06bdeda43cc5" name="Subsystem1" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <ownedCommentsInternal>
+          <comment Id="abb79a82-b1f5-4be5-be84-c6e132cf1018">
+            <elementDefinition Id="e634c36d-7c97-4aa4-86e4-3eae6000be31" />
+            <annotatedElements>
+              <useCaseMoniker Id="89f6dbaa-edc2-47ea-8cdc-58c1ee33c9b1" LastKnownName="UseCase2" />
+            </annotatedElements>
+          </comment>
+        </ownedCommentsInternal>
+        <elementDefinition Id="735f7865-6dc0-4c7d-93cb-caa04b4e9957" />
+      </subsystem>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="6404c364-4407-4f7b-a5c6-4069a83f6504" name="Modelagem do sistema">
+    <elementDefinition Id="44e3caf3-2ac2-412b-9910-b30f78a6dfcc" />
+  </package>
+</useCaseModelRoot>
